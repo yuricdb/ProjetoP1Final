@@ -1,4 +1,3 @@
-#################################################################################################################
 Importante:
 
 1°
@@ -12,6 +11,5 @@ P/ instalar basta inserir o código " pip install PyQt5 " no prompt de comando n
 *O CMD do windows só permite esse comando se o usuário tiver escolhido a opção do checkbox "Patch..." previamente quando foi instalado o python (Isso faz com que se possa usar o python pelo prompt de comando quando necessário).
 
 DURANTE A EXECUÇÃO DA INTERFACE, CASO OPTE POR NÃO APARECER O PROMPT JUNTO, BASTA ABRIR O ARQUIVO EM UM EDITOR E SALVAR COMO '.pyw' ao invés de '.py'
-#################################################################################################################
 
 ycb@cin.ufpe.br
