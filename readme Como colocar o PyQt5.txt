@@ -1,21 +1,17 @@
 #################################################################################################################
 Importante:
 
-Primeiro: para que as imagens apareçam é só estrair a pasta 'icones' no local, todas as imagens ficarão dentro de uma pasta chamada "icones" (se não for feito, o programa naõ dará erro, mas naõ aparecerá imagens, oq vi dificultar o funcionamento)
+1°
+Para que as imagens apareçam basta extrair a pasta 'icones' no local, todas as imagens ficarão dentro de uma pasta chamada "icones" (se não for feito, o programa não dará erro, mas não aparecerá imagens)
 
-Segundo: É necessario a instalação da biblioteca PYQT5
+2°
+É necessario a instalação da biblioteca PYQT5
 
-para instalar basta:
+P/ instalar basta inserir o código " pip install PyQt5 " no prompt de comando no windows*:  
 
-1- abrir o prompt de comando no windows 
-2 - inserir o codigo:   pip install PyQt5
+*O CMD do windows só permite esse comando se o usuário tiver escolhido a opção do checkbox "Patch..." previamente quando foi instalado o python (Isso faz com que se possa usar o python pelo prompt de comando quando necessário).
 
-*pode ser instalada pelo Pycharm também
-
-**O cmd do windows só permite esse comando se o usuário tiver escolhido a opção do checkbox "Patch..." na instalação do python (No geral a maioria dos usuários sempre marcam essa opção, isso faz com que se possa usar o python pelo prompt de comando quando necessário)
-
-
-PRA RODAR A INTERFACE SEM A TELA PRETA, BASTA ABRIR O ARQUIVO EM UM EDITOR E SALVAR COMO '.pyw' ao invés de '.py'
+DURANTE A EXECUÇÃO DA INTERFACE, CASO OPTE POR NÃO APARECER O PROMPT JUNTO, BASTA ABRIR O ARQUIVO EM UM EDITOR E SALVAR COMO '.pyw' ao invés de '.py'
 #################################################################################################################
 
 ycb@cin.ufpe.br
